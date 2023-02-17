@@ -5,7 +5,7 @@
 }
 
 html, body{
-    background-color: darkcyan;
+    background-color: rgb(67, 29, 234);
 }
 
 .App{
@@ -39,3 +39,4 @@ html, body{
     align-items: center;
     justify-content: center;
 }
+
