@@ -11,14 +11,28 @@ button{
   font-size: 35px;
 }
 
-button:hover{
-  background-color: #00471b;
-}
+
 
 .boton-clic{
-  background-color: #027ead;
+  background-color: #02ECFF;
+  color: black;
+  transition: .3s ease;
+
+}
+
+.boton-clic:hover{
+  background-color: black;
+  color: white;
+  transition: .3s ease;
 }
 
 .boton-reiniciar{
-  background-color: purple;
+  background-color: #0220ffc7;
+  transition: .3s ease;
+}
+
+.boton-reiniciar:hover{
+  background-color: red;
+  color: black;
+  transition: .3s ease;
 }
